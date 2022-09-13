@@ -1,0 +1,121 @@
+2022-09-07 11:02:59 INFO  TC01_AB_Testing:26 - Log: User clicked on A/B Link
+2022-09-07 11:05:24 INFO  TC01_AB_Testing:26 - Log: User clicked on A/B Link
+2022-09-07 15:33:14 INFO  TC01_AB_Testing:26 - Log: User clicked on A/B Link
+2022-09-07 15:33:14 INFO  TC01_AB_Testing:39 - Log: Title Testing
+2022-09-07 15:35:17 INFO  TC01_AB_Testing:39 - Log: Title Testing
+2022-09-07 15:36:18 INFO  TC01_AB_Testing:27 - Log: User clicked on A/B Link
+2022-09-07 15:50:23 INFO  TC01_AB_Testing:26 - Log: User clicked on A/B Link
+2022-09-08 11:24:34 INFO  TC02_Add_Remove:21 - Log: User clicked on Add Remove Link
+2022-09-08 17:45:25 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-08 17:45:26 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-08 17:45:26 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-08 17:46:26 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-08 17:46:27 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-08 17:46:27 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-08 17:46:56 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-08 17:46:57 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-08 17:46:57 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-08 17:47:59 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-08 17:47:59 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-08 17:47:59 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-08 17:50:58 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-08 17:50:58 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-08 17:50:58 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-08 18:47:38 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-08 18:47:38 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-08 18:47:39 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-08 21:19:47 INFO  TC03_User_Auth:21 - Log: User clicked on Auth Link
+2022-09-09 08:55:52 INFO  TC03_User_Auth:20 - Log: User clicked on CheckBox Link
+2022-09-09 08:55:52 INFO  TC03_User_Auth:31 - Log: User Clicked on CheckBox Button
+2022-09-09 08:59:17 INFO  TC06_CheckBoxes:20 - Log: User clicked on CheckBox Link
+2022-09-09 08:59:18 INFO  TC06_CheckBoxes:31 - Log: User Clicked on CheckBox Button
+2022-09-09 09:02:44 INFO  TC06_CheckBoxes:20 - Log: User clicked on CheckBox Link
+2022-09-09 09:02:45 INFO  TC06_CheckBoxes:31 - Log: User Clicked on CheckBox Button
+2022-09-09 09:36:54 INFO  TC06_CheckBoxes:20 - Log: User clicked on CheckBox Link
+2022-09-09 09:36:55 INFO  TC06_CheckBoxes:31 - Log: User Clicked on CheckBox Button
+2022-09-09 09:36:55 INFO  TC06_CheckBoxes:43 - Log: Verify the CheckBox Button is Selected
+2022-09-09 10:59:43 INFO  TC03_User_Auth:20 - Log: User clicked on Auth Link
+2022-09-09 11:04:34 INFO  TC03_User_Auth:20 - Log: User clicked on Auth Link
+2022-09-09 11:05:55 INFO  TC03_User_Auth:20 - Log: User clicked on Auth Link
+2022-09-09 11:20:18 INFO  TC03_User_Auth:33 - Log: User Entered UserName
+2022-09-09 11:35:00 INFO  TC03_User_Auth:34 - Log: User Entered UserName
+2022-09-09 11:35:50 INFO  TC03_User_Auth:37 - Log: User Entered UserName
+2022-09-09 14:36:26 INFO  TC03_User_Auth:37 - Log: User Entered UserName
+2022-09-09 14:37:27 INFO  TC03_User_Auth:21 - Log: User clicked on Auth Link
+2022-09-09 14:39:06 INFO  TC03_User_Auth:21 - Log: User clicked on Auth Link
+2022-09-09 15:10:00 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-09 15:17:02 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-09 15:17:03 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-09 15:25:33 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-09 15:25:35 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-09 15:27:35 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-09 15:27:36 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-09 15:27:50 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-09 15:28:49 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-09 15:28:51 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-09 15:28:58 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-09 15:29:32 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-09 15:29:33 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-09 15:30:04 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-09 15:31:11 INFO  TC02_Add_Remove:24 - Log: User clicked on Add Remove Link
+2022-09-09 15:31:12 INFO  TC02_Add_Remove:37 - Log: User Clicked on Add Button
+2022-09-09 15:31:13 INFO  TC02_Add_Remove:49 - Log: User Clicked on Delete Button
+2022-09-09 19:33:25 INFO  TC04_Brokern_Images:25 - Log: User clicked on Broken Images Link
+2022-09-09 19:33:25 INFO  TC04_Brokern_Images:37 - Log: List of Broken Images
+2022-09-09 19:34:44 INFO  TC04_Brokern_Images:25 - Log: User clicked on Broken Images Link
+2022-09-09 19:34:45 INFO  TC04_Brokern_Images:37 - Log: List of Broken Images
+2022-09-10 10:07:58 INFO  TC04_Brokern_Images:25 - Log: User clicked on Broken Images Link
+2022-09-10 10:08:04 INFO  TC04_Brokern_Images:37 - Log: List of Broken Images
+2022-09-10 19:09:34 INFO  TC07_Inputs:21 - Log: User clicked on Input_numbers Link
+2022-09-10 19:09:34 INFO  TC07_Inputs:33 - Log: User Entered Valid_Input_number
+2022-09-10 19:26:46 INFO  TC07_Inputs:21 - Log: User clicked on Input_numbers Link
+2022-09-10 19:26:47 INFO  TC07_Inputs:33 - Log: User Entered Valid_Input_number
+2022-09-10 19:27:06 INFO  TC07_Inputs:21 - Log: User clicked on Input_numbers Link
+2022-09-10 19:27:06 INFO  TC07_Inputs:33 - Log: User Entered Valid_Input_number
+2022-09-10 19:36:48 INFO  TC07_Inputs:21 - Log: User clicked on Input_numbers Link
+2022-09-10 19:36:49 INFO  TC07_Inputs:33 - Log: User Entered Valid_Input_number
+2022-09-10 19:38:18 INFO  TC07_Inputs:21 - Log: User clicked on Input_numbers Link
+2022-09-10 19:38:25 INFO  TC07_Inputs:33 - Log: User Entered Valid_Input_number
+2022-09-10 20:41:09 INFO  TC07_Inputs:21 - Log: User clicked on Input_numbers Link
+2022-09-10 20:41:17 INFO  TC07_Inputs:32 - Log: User Entered Valid_Input_number
+2022-09-10 20:46:28 INFO  TC07_Inputs:21 - Log: User clicked on Input_numbers Link
+2022-09-10 20:46:38 INFO  TC07_Inputs:32 - Log: User Entered Valid_Input_number
+2022-09-10 20:47:14 INFO  TC07_Inputs:21 - Log: User clicked on Input_numbers Link
+2022-09-11 09:14:45 INFO  TC08_DragDrop:20 - Log: User clicked on DD Link
+2022-09-11 09:14:56 INFO  TC08_DragDrop:31 - Log: DD Actions
+2022-09-11 09:21:33 INFO  TC08_DragDrop:20 - Log: User clicked on DD Link
+2022-09-11 09:26:45 INFO  TC08_DragDrop:31 - Log: DD Actions
+2022-09-11 09:42:08 INFO  TC05_DropDown:20 - Log: User clicked on DropDown Link
+2022-09-11 09:42:57 INFO  TC05_DropDown:20 - Log: User clicked on DropDown Link
+2022-09-11 09:43:58 INFO  TC05_DropDown:20 - Log: User clicked on DropDown Link
+2022-09-11 09:43:59 INFO  TC05_DropDown:31 - Log: User Selected DropDown
+2022-09-12 11:32:03 INFO  TC09_Mouse_hover:20 - Log: User clicked on Hover Link
+2022-09-12 11:32:04 INFO  TC09_Mouse_hover:31 - Log: User Hover On Element
+2022-09-12 11:32:31 INFO  TC09_Mouse_hover:20 - Log: User clicked on Hover Link
+2022-09-12 11:32:31 INFO  TC09_Mouse_hover:31 - Log: User Hover On Element
+2022-09-12 11:36:45 INFO  TC09_Mouse_hover:20 - Log: User clicked on Hover Link
+2022-09-12 11:36:50 INFO  TC09_Mouse_hover:31 - Log: User Hover On Element
+2022-09-12 11:43:49 INFO  TC09_Mouse_hover:20 - Log: User clicked on Hover Link
+2022-09-12 11:43:58 INFO  TC09_Mouse_hover:31 - Log: User Hover On Element
+2022-09-12 11:52:00 INFO  TC09_Mouse_hover:20 - Log: User clicked on Hover Link
+2022-09-12 18:10:47 INFO  TC10_H_Slider:20 - Log: User clicked on H_Slider Link
+2022-09-12 18:10:48 INFO  TC10_H_Slider:31 - Log: H_Slider Actions
+2022-09-12 18:24:30 INFO  TC10_H_Slider:20 - Log: User clicked on H_Slider Link
+2022-09-12 18:24:30 INFO  TC10_H_Slider:31 - Log: H_Slider Actions
+2022-09-12 18:25:07 INFO  TC10_H_Slider:20 - Log: User clicked on H_Slider Link
+2022-09-12 18:25:08 INFO  TC10_H_Slider:31 - Log: H_Slider Actions
+2022-09-12 18:25:22 INFO  TC10_H_Slider:20 - Log: User clicked on H_Slider Link
+2022-09-12 18:25:22 INFO  TC10_H_Slider:31 - Log: H_Slider Actions
+2022-09-12 18:52:49 INFO  TC10_H_Slider:20 - Log: User clicked on H_Slider Link
+2022-09-12 18:52:50 INFO  TC10_H_Slider:31 - Log: H_Slider Actions
+2022-09-12 18:57:15 INFO  TC10_H_Slider:20 - Log: User clicked on H_Slider Link
+2022-09-12 18:57:15 INFO  TC10_H_Slider:31 - Log: H_Slider Actions
+2022-09-12 19:10:23 INFO  TC10_H_Slider:20 - Log: User clicked on H_Slider Link
+2022-09-12 19:10:24 INFO  TC10_H_Slider:31 - Log: H_Slider Actions
+2022-09-12 20:29:34 INFO  TC11_I_Scroll:20 - Log: User clicked on I_Scroll_Page Link
+2022-09-12 20:29:35 INFO  TC11_I_Scroll:31 - Log: I_Scroll_Page Actions
+2022-09-12 21:10:23 INFO  TC11_I_Scroll:20 - Log: User clicked on I_Scroll_Page Link
+2022-09-12 21:10:24 INFO  TC11_I_Scroll:31 - Log: I_Scroll_Page Actions
+2022-09-12 21:13:28 INFO  TC11_I_Scroll:20 - Log: User clicked on I_Scroll_Page Link
+2022-09-12 21:44:53 INFO  TC11_Dynamic_Controls:20 - Log: User clicked on Dynamic_Control_Page Link
+2022-09-12 21:46:08 INFO  TC11_Dynamic_Controls:20 - Log: User clicked on Dynamic_Control_Page Link
