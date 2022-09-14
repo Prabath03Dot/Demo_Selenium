@@ -3,6 +3,7 @@ package TestCases;
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
 import BasePages.HomePage;
+import BasePages.InfinityScroll;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
@@ -25,14 +26,13 @@ public class TC12_I_Scroll extends TestBase {
     @Test(priority = 2)
     public void H_Slider_Action() throws InterruptedException {
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.IScroll_Actions();
+        InfinityScroll infinityScroll = PageFactory.initElements(driver, InfinityScroll.class);
+        infinityScroll.IScroll_Actions();
 
         logger.info("Log: I_Scroll_Page Actions");
         Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "I_Scroll_Page_Actions");
 
     }
-
 
 }
 

@@ -2,6 +2,7 @@ package TestCases;
 
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
+import BasePages.CheckBoxes;
 import BasePages.HomePage;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
@@ -24,9 +25,9 @@ public class TC06_CheckBoxes extends TestBase {
     @Test(priority = 2)
     public void Click_On_CheckBox_Button() {
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
+        CheckBoxes checkBoxes = PageFactory.initElements(driver, CheckBoxes.class);
 
-        homePage.ClickOnCheckBox1();
+        checkBoxes.ClickOnCheckBox1();
 
         logger.info("Log: User Clicked on CheckBox Button");
         Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "CheckBox_page");
@@ -35,10 +36,9 @@ public class TC06_CheckBoxes extends TestBase {
 
     @Test(priority = 3)
     public void Verify_CheckBox_Button_is_Clicked() {
+        CheckBoxes checkBoxes = PageFactory.initElements(driver, CheckBoxes.class);
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-
-        homePage.ClickOnCheckBox2();
+        checkBoxes.ClickOnCheckBox2();
 
         logger.info("Log: Verify the CheckBox Button is Selected");
         Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "CheckBox_page");

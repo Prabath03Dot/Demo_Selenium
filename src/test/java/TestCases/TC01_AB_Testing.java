@@ -2,6 +2,7 @@ package TestCases;
 
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
+import BasePages.AB_Testing;
 import BasePages.HomePage;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
@@ -27,13 +28,11 @@ public class TC01_AB_Testing extends TestBase {
     @Test(priority = 2)
     public void verify_that_selected_wording_includes() {
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
+        AB_Testing ab_testing = PageFactory.initElements(driver, AB_Testing.class);
 
-        homePage.abAssertions();
+        ab_testing.abAssertions();
 
         logger.info("Log: Title Testing");
-
-//        Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "AB_Testing_page");
 
     }
 

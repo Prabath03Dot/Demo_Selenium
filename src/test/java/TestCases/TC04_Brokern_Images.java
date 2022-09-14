@@ -2,6 +2,7 @@ package TestCases;
 
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
+import BasePages.BrokenImages;
 import BasePages.HomePage;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
@@ -25,14 +26,11 @@ public class TC04_Brokern_Images extends TestBase {
 
     @Test(priority = 2)
     public void Verify_Broken_Images_Auth() {
+        BrokenImages brokenImages = PageFactory.initElements(driver, BrokenImages.class);
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-
-        homePage.BrokenImages();
+        brokenImages.Broken_Images();
 
         logger.info("Log: List of Broken Images");
-//        Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "Broken_Images_page");
-
     }
 
 

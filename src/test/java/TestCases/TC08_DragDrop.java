@@ -2,6 +2,7 @@ package TestCases;
 
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
+import BasePages.DragAndDrop;
 import BasePages.HomePage;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
@@ -25,8 +26,8 @@ public class TC08_DragDrop extends TestBase {
     @Test(priority = 2)
     public void DD_Actions() throws InterruptedException {
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.DD();
+        DragAndDrop dragAndDrop = PageFactory.initElements(driver, DragAndDrop.class);
+        dragAndDrop.DD();
 
         logger.info("Log: DD Actions");
         Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "DD_Actions");

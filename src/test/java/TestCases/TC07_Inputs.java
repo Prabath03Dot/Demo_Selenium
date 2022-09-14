@@ -3,10 +3,13 @@ package TestCases;
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
 import BasePages.HomePage;
+import BasePages.Inputs;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
+
+import java.util.Scanner;
 
 public class TC07_Inputs extends TestBase {
 
@@ -26,8 +29,13 @@ public class TC07_Inputs extends TestBase {
     @Test(priority = 2)
     public void Enter_valid_number() throws InterruptedException {
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.InsertNumbers("7");
+        Inputs inputs = PageFactory.initElements(driver, Inputs.class);
+//        Scanner userInputNumber = new Scanner(System.in);
+//        System.out.println("Enter A Number");
+//        String a = userInputNumber.nextLine();
+
+        //Values Available (v1-v9)
+        inputs.InsertNumbers(prop.getProperty("v1"));
 
         logger.info("Log: User Entered Valid_Input_number");
         Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "Valid_Input_number");

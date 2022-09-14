@@ -2,6 +2,7 @@ package TestCases;
 
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
+import BasePages.DropDown;
 import BasePages.HomePage;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
@@ -25,8 +26,8 @@ public class TC05_DropDown extends TestBase {
     @Test(priority = 2)
     public void Select_On_Drop_Down() throws InterruptedException {
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.Select_DropDown();
+        DropDown dropDown = PageFactory.initElements(driver, DropDown.class);
+        dropDown.Select_DropDown();
 
         logger.info("Log: User Selected DropDown");
         Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "Select_DropDown");

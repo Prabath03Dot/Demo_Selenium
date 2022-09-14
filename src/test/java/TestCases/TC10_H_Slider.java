@@ -3,6 +3,7 @@ package TestCases;
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
 import BasePages.HomePage;
+import BasePages.Slider;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
@@ -25,8 +26,8 @@ public class TC10_H_Slider extends TestBase {
     @Test(priority = 2)
     public void H_Slider_Action() throws InterruptedException {
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.HSlider_Actions();
+        Slider slider = PageFactory.initElements(driver, Slider.class);
+        slider.HSlider_Actions();
 
         logger.info("Log: H_Slider Actions");
         Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "H_Slider_Actions");

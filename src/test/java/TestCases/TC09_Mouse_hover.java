@@ -3,6 +3,7 @@ package TestCases;
 import BaseClasses.Reporting;
 import BaseClasses.TestBase;
 import BasePages.HomePage;
+import BasePages.Hover;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
@@ -25,8 +26,8 @@ public class TC09_Mouse_hover extends TestBase {
     @Test(priority = 2)
     public void Click_On_Mouse_Hover() throws InterruptedException {
 
-        HomePage homePage = PageFactory.initElements(driver, HomePage.class);
-        homePage.Hover();
+        Hover hoverr = PageFactory.initElements(driver, Hover.class);
+        hoverr.Hover();
 
         logger.info("Log: User Hover On Element");
         Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "Hover_Element");

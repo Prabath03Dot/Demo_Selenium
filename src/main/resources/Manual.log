@@ -121,3 +121,92 @@
 2022-09-12 21:46:08 INFO  TC11_Dynamic_Controls:20 - Log: User clicked on Dynamic_Control_Page Link
 2022-09-12 21:49:05 INFO  TC11_Dynamic_Controls:20 - Log: User clicked on Dynamic_Control_Page Link
 2022-09-12 21:49:14 INFO  TC11_Dynamic_Controls:31 - Log: DynamicControlRemove Actions
+2022-09-13 12:39:12 INFO  TC13_Context_Menu:20 - Log: User clicked on Context_Menu_Page Link
+2022-09-13 12:43:37 INFO  TC13_Context_Menu:20 - Log: User clicked on Context_Menu_Page Link
+2022-09-13 12:43:37 INFO  TC13_Context_Menu:31 - Log: Context_Menu_Page Actions
+2022-09-13 12:45:13 INFO  TC13_Context_Menu:20 - Log: User clicked on Context_Menu_Page Link
+2022-09-13 12:45:15 INFO  TC13_Context_Menu:31 - Log: Context_Menu_Page Actions
+2022-09-13 13:50:54 INFO  TC14_Modal_Dialog:20 - Log: User clicked on Model_Dialog_Page Link
+2022-09-13 13:50:57 INFO  TC14_Modal_Dialog:31 - Log: Model_Dialog_Page Action : Window Closed
+2022-09-13 13:51:53 INFO  TC14_Modal_Dialog:20 - Log: User clicked on Model_Dialog_Page Link
+2022-09-13 13:51:55 INFO  TC14_Modal_Dialog:31 - Log: Model_Dialog_Page Action : Window Closed
+2022-09-13 13:52:43 INFO  TC14_Modal_Dialog:20 - Log: User clicked on Model_Dialog_Page Link
+2022-09-13 13:52:46 INFO  TC14_Modal_Dialog:31 - Log: Model_Dialog_Page Action : Window Closed
+2022-09-13 13:56:09 INFO  TC14_Modal_Dialog:20 - Log: User clicked on Model_Dialog_Page Link
+2022-09-13 13:56:10 INFO  TC14_Modal_Dialog:31 - Log: Model_Dialog_Page Action : Window Closed
+2022-09-13 13:56:11 INFO  TC14_Modal_Dialog:42 - Log: Model_Dialog_Page Action : Window Re-Enabled
+2022-09-13 19:34:34 INFO  TC15_File_Upload:20 - Log: User clicked on File_Upload_Page Link
+2022-09-13 19:37:41 INFO  TC15_File_Upload:20 - Log: User clicked on File_Upload_Page Link
+2022-09-13 19:37:48 INFO  TC15_File_Upload:31 - Log: File_Upload_Page Action : File Uploading......
+2022-09-13 19:40:33 INFO  TC15_File_Upload:20 - Log: User clicked on File_Upload_Page Link
+2022-09-13 19:40:41 INFO  TC15_File_Upload:31 - Log: File_Upload_Page Action : File Uploading......
+2022-09-13 19:40:41 INFO  TC15_File_Upload:42 - Log: File_Upload_Page Action : Verify File Uploaded
+2022-09-13 19:41:27 INFO  TC15_File_Upload:20 - Log: User clicked on File_Upload_Page Link
+2022-09-13 19:41:35 INFO  TC15_File_Upload:31 - Log: File_Upload_Page Action : File Uploading......
+2022-09-13 22:01:37 INFO  TC16_Floating_Menu:20 - Log: User clicked on Floating_Menu Link
+2022-09-13 22:01:40 INFO  TC16_Floating_Menu:31 - Log: Floating_Menu : Actions
+2022-09-14 08:38:12 INFO  TC17_JQ_Menu:20 - Log: User clicked on JQ_Menu_Page Link
+2022-09-14 08:38:13 INFO  TC17_JQ_Menu:31 - Log: JQ_Menu_Actions
+2022-09-14 08:39:42 INFO  TC17_JQ_Menu:20 - Log: User clicked on JQ_Menu_Page Link
+2022-09-14 08:39:43 INFO  TC17_JQ_Menu:31 - Log: JQ_Menu_Actions
+2022-09-14 08:40:38 INFO  TC17_JQ_Menu:20 - Log: User clicked on JQ_Menu_Page Link
+2022-09-14 11:07:16 INFO  TC17_JQ_Menu:20 - Log: User clicked on JQ_Menu_Page Link
+2022-09-14 11:07:19 INFO  TC17_JQ_Menu:31 - Log: JQ_Menu_Actions
+2022-09-14 11:08:01 INFO  TC17_JQ_Menu:20 - Log: User clicked on JQ_Menu_Page Link
+2022-09-14 11:08:04 INFO  TC17_JQ_Menu:31 - Log: JQ_Menu_Actions
+2022-09-14 19:23:56 INFO  TC02_Add_Remove:25 - Log: User clicked on Add Remove Link
+2022-09-14 19:23:57 INFO  TC02_Add_Remove:38 - Log: User Clicked on Add Button
+2022-09-14 19:23:58 INFO  TC02_Add_Remove:50 - Log: User Clicked on Delete Button
+2022-09-14 19:24:29 INFO  TC01_AB_Testing:22 - Log: User clicked on A/B Link
+2022-09-14 19:24:29 INFO  TC01_AB_Testing:35 - Log: Title Testing
+2022-09-14 19:34:05 INFO  TC03_User_Auth:30 - Log: User clicked on Auth Link
+2022-09-14 19:37:51 INFO  TC06_CheckBoxes:21 - Log: User clicked on CheckBox Link
+2022-09-14 19:37:51 INFO  TC06_CheckBoxes:32 - Log: User Clicked on CheckBox Button
+2022-09-14 19:37:52 INFO  TC06_CheckBoxes:43 - Log: Verify the CheckBox Button is Selected
+2022-09-14 19:48:19 INFO  TC04_Brokern_Images:22 - Log: User clicked on Broken Images Link
+2022-09-14 19:48:24 INFO  TC04_Brokern_Images:33 - Log: List of Broken Images
+2022-09-14 19:55:28 INFO  TC07_Inputs:22 - Log: User clicked on Input_numbers Link
+2022-09-14 19:55:28 INFO  TC07_Inputs:33 - Log: User Entered Valid_Input_number
+2022-09-14 21:34:38 INFO  TC07_Inputs:24 - Log: User clicked on Input_numbers Link
+2022-09-14 21:36:46 INFO  TC07_Inputs:24 - Log: User clicked on Input_numbers Link
+2022-09-14 21:36:47 INFO  TC07_Inputs:37 - Log: User Entered Valid_Input_number
+2022-09-14 21:40:19 INFO  TC07_Inputs:24 - Log: User clicked on Input_numbers Link
+2022-09-14 21:42:50 INFO  TC07_Inputs:24 - Log: User clicked on Input_numbers Link
+2022-09-14 21:54:39 INFO  TC07_Inputs:24 - Log: User clicked on Input_numbers Link
+2022-09-14 22:14:14 INFO  TC07_Inputs:24 - Log: User clicked on Input_numbers Link
+2022-09-14 22:14:14 INFO  TC07_Inputs:40 - Log: User Entered Valid_Input_number
+2022-09-14 22:42:00 INFO  TC08_DragDrop:21 - Log: User clicked on DD Link
+2022-09-14 22:42:04 INFO  TC08_DragDrop:32 - Log: DD Actions
+2022-09-14 22:44:31 INFO  TC05_DropDown:21 - Log: User clicked on DropDown Link
+2022-09-14 22:44:32 INFO  TC05_DropDown:32 - Log: User Selected DropDown
+2022-09-14 22:47:04 INFO  TC09_Mouse_hover:21 - Log: User clicked on Hover Link
+2022-09-14 22:47:09 INFO  TC09_Mouse_hover:32 - Log: User Hover On Element
+2022-09-14 22:48:44 INFO  TC10_H_Slider:21 - Log: User clicked on H_Slider Link
+2022-09-14 22:48:46 INFO  TC10_H_Slider:32 - Log: H_Slider Actions
+2022-09-14 22:51:14 INFO  TC12_I_Scroll:21 - Log: User clicked on I_Scroll_Page Link
+2022-09-14 22:53:12 INFO  TC11_Dynamic_Controls:21 - Log: User clicked on Dynamic_Control_Page Link
+2022-09-14 22:53:21 INFO  TC11_Dynamic_Controls:32 - Log: DynamicControlRemove Actions
+2022-09-14 22:54:48 INFO  TC11_Dynamic_Controls:21 - Log: User clicked on Dynamic_Control_Page Link
+2022-09-14 22:54:57 INFO  TC11_Dynamic_Controls:32 - Log: DynamicControlRemove Actions
+2022-09-14 22:56:18 INFO  TC11_Dynamic_Controls:21 - Log: User clicked on Dynamic_Control_Page Link
+2022-09-14 22:56:35 INFO  TC11_Dynamic_Controls:32 - Log: DynamicControlRemove Actions
+2022-09-14 23:03:38 INFO  TC11_Dynamic_Controls:21 - Log: User clicked on Dynamic_Control_Page Link
+2022-09-14 23:03:56 INFO  TC11_Dynamic_Controls:32 - Log: DynamicControlRemove Actions
+2022-09-14 23:05:04 INFO  TC11_Dynamic_Controls:21 - Log: User clicked on Dynamic_Control_Page Link
+2022-09-14 23:05:50 INFO  TC11_Dynamic_Controls:32 - Log: DynamicControlRemove Actions
+2022-09-14 23:07:48 INFO  TC11_Dynamic_Controls:21 - Log: User clicked on Dynamic_Control_Page Link
+2022-09-14 23:08:19 INFO  TC11_Dynamic_Controls:32 - Log: DynamicControlRemove Actions
+2022-09-14 23:09:12 INFO  TC11_Dynamic_Controls:21 - Log: User clicked on Dynamic_Control_Page Link
+2022-09-14 23:09:28 INFO  TC11_Dynamic_Controls:43 - Log: DynamicControlDisable Actions
+2022-09-14 23:09:45 INFO  TC11_Dynamic_Controls:32 - Log: DynamicControlRemove Actions
+2022-09-14 23:29:54 INFO  TC13_Context_Menu:21 - Log: User clicked on Context_Menu_Page Link
+2022-09-14 23:29:57 INFO  TC13_Context_Menu:32 - Log: Context_Menu_Page Actions
+2022-09-14 23:31:50 INFO  TC14_Modal_Dialog:21 - Log: User clicked on Model_Dialog_Page Link
+2022-09-14 23:31:51 INFO  TC14_Modal_Dialog:32 - Log: Model_Dialog_Page Action : Window Closed
+2022-09-14 23:31:52 INFO  TC14_Modal_Dialog:43 - Log: Model_Dialog_Page Action : Window Re-Enabled
+2022-09-14 23:33:55 INFO  TC15_File_Upload:21 - Log: User clicked on File_Upload_Page Link
+2022-09-14 23:34:02 INFO  TC15_File_Upload:32 - Log: File_Upload_Page Action : File Uploading......
+2022-09-14 23:35:51 INFO  TC16_Floating_Menu:21 - Log: User clicked on Floating_Menu Link
+2022-09-14 23:35:54 INFO  TC16_Floating_Menu:32 - Log: Floating_Menu : Actions
+2022-09-14 23:37:51 INFO  TC17_JQ_Menu:21 - Log: User clicked on JQ_Menu_Page Link
+2022-09-14 23:37:54 INFO  TC17_JQ_Menu:32 - Log: JQ_Menu_Actions
