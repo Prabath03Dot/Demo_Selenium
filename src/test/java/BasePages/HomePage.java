@@ -66,7 +66,7 @@ public class HomePage extends TestBase {
         return this;
     }
 
-    //---------------- Broken Images
+    //---------------- Broken Images-----------------------
 
     @CacheLookup
     @FindBy(xpath = "/html[1]/body[1]/div[2]/div[1]/ul[1]/li[4]/a[1]")
@@ -96,7 +96,6 @@ public class HomePage extends TestBase {
         DDLink.click();
         return this;
     }
-
 
     //----------------DropDown------------------
     @CacheLookup
@@ -158,7 +157,6 @@ public class HomePage extends TestBase {
         return this;
     }
 
-
     //-------------Model Dialog----------------
     @CacheLookup
     @FindBy(xpath = "//a[normalize-space()='Entry Ad']")
@@ -197,6 +195,86 @@ public class HomePage extends TestBase {
 
     public HomePage ClickOnJQMenuLink(){
         JQMenuLink.click();
+        return this;
+    }
+
+    //-------------JQuarry Alerts----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='JavaScript Alerts']")
+    private WebElement JQAlertsLink;
+
+    public HomePage ClickOnJQAlertsLink(){
+        JQAlertsLink.click();
+        return this;
+    }
+
+    //-------------KeyPress ----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Key Presses']")
+    private WebElement KeyPressLink;
+
+    public HomePage ClickOnKeyPressLink(){
+        KeyPressLink.click();
+        return this;
+    }
+
+    //-------------Notification Msg----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Notification Messages']")
+    private WebElement MsgLink;
+
+    public HomePage ClickOnMsgLink(){
+        MsgLink.click();
+        return this;
+    }
+
+    //-------------New Window----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Multiple Windows']")
+    private WebElement WindowLink;
+
+    public HomePage ClickOnWindowLink(){
+        WindowLink.click();
+        return this;
+    }
+
+    //-------------Nested Frames----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Nested Frames']")
+    private WebElement NestedFramesLink;
+
+    public HomePage ClickOnNestedFramesLink(){
+        NestedFramesLink.click();
+        return this;
+    }
+
+    //-------------Redirect Links----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Redirect Link']")
+    private WebElement RedirectLink;
+
+    public HomePage ClickOnRedirectLink(){
+        RedirectLink.click();
+        return this;
+    }
+
+    //-------------Redirect Links----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Secure File Download']")
+    private WebElement FileDownloadLink;
+
+    public HomePage ClickOnFileDownloadLink(){
+        FileDownloadLink.click();
+        return this;
+    }
+
+    //-------------Redirect Links----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Shadow DOM']")
+    private WebElement ShadowTextLink;
+
+    public HomePage ClickOnShadowTextLink(){
+        ShadowTextLink.click();
         return this;
     }
 
