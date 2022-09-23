@@ -27,13 +27,46 @@ public class TC22_NestedFrames extends TestBase {
     }
 
     @Test(priority = 2)
-    public void Verify_Actions_Nested_Frames() throws InterruptedException {
+    public void SwitchFrame_Left() throws InterruptedException {
 
         NestedFrames nestedFrames = PageFactory.initElements(driver, NestedFrames.class);
 
-        nestedFrames.NestedFramesActions();
+        nestedFrames.SwitchFrame_Left();
 
         logger.info("Log: Nested_Frames_Page Testing");
+
+    }
+
+    @Test(priority = 3)
+    public void Verify_Actions_Nested_Frames_Left() throws InterruptedException {
+
+        NestedFrames nestedFrames = PageFactory.initElements(driver, NestedFrames.class);
+
+        nestedFrames.NestedFramesActions_Left();
+
+        logger.info("Log: Nested_Frames_Page Testing");
+
+    }
+
+    @Test(priority = 4)
+    public void SwitchFrame_Child_Bottom() throws InterruptedException {
+
+        NestedFrames nestedFrames = PageFactory.initElements(driver, NestedFrames.class);
+
+        nestedFrames.SwitchFrame_Child_Bottom();
+
+        logger.info("Log: SwitchFrame_Child_Bottom Testing");
+
+    }
+
+    @Test(priority = 5)
+    public void NestedFramesActions_Bottom() throws InterruptedException {
+
+        NestedFrames nestedFrames = PageFactory.initElements(driver, NestedFrames.class);
+
+        nestedFrames.NestedFramesActions_Bottom();
+
+        logger.info("Log: NestedFramesActions_Bottom Testing");
 
     }
 

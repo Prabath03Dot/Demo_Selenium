@@ -336,3 +336,210 @@
 2022-09-19 22:32:07 INFO  TC25_ShandowText:23 - Log: User clicked on Shadow_Text_Page Link
 2022-09-19 22:32:07 INFO  TC25_ShandowText:36 - Log: Shadow_Text_1 Testing
 2022-09-20 00:16:54 INFO  TC25_ShandowText:23 - Log: User clicked on Shadow_Text_Page Link
+2022-09-20 10:15:54 INFO  TC25_ShandowText:23 - Log: User clicked on Shadow_Text_Page Link
+2022-09-20 10:26:24 INFO  TC25_ShandowText:23 - Log: User clicked on Shadow_Text_Page Link
+2022-09-20 10:58:59 INFO  TC25_ShandowText:23 - Log: User clicked on Shadow_Text_Page Link
+2022-09-20 11:06:55 INFO  TC25_ShandowText:23 - Log: User clicked on Shadow_Text_Page Link
+2022-09-21 16:15:01 INFO  TC26_SlowResource:26 - Log: User clicked on SlowResource_Pag Link
+2022-09-21 16:15:39 INFO  TC26_SlowResource:39 - Log: SlowResource_Actions Testing
+2022-09-21 16:18:15 INFO  TC26_SlowResource:24 - Log: User clicked on SlowResource_Pag Link
+2022-09-21 16:18:54 INFO  TC26_SlowResource:35 - Log: SlowResource_Actions Testing
+2022-09-21 16:19:35 INFO  TC26_SlowResource:24 - Log: User clicked on SlowResource_Pag Link
+2022-09-21 16:20:14 INFO  TC26_SlowResource:35 - Log: SlowResource_Actions Testing
+2022-09-21 16:38:00 INFO  TC26_SlowResource:24 - Log: User clicked on SlowResource_Pag Link
+2022-09-21 16:38:02 INFO  TC26_SlowResource:35 - Log: SlowResource_Actions Testing
+2022-09-21 16:40:08 INFO  TC26_SlowResource:24 - Log: User clicked on SlowResource_Pag Link
+2022-09-21 16:40:10 INFO  TC26_SlowResource:35 - Log: SlowResource_Actions Testing
+2022-09-21 18:37:00 INFO  TC26_SlowResource:24 - Log: User clicked on SlowResource_Pag Link
+2022-09-21 18:37:37 INFO  TC26_SlowResource:35 - Log: SlowResource_Actions Testing
+2022-09-21 19:07:39 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 19:08:23 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 20:49:47 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 20:50:41 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 20:51:53 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 20:52:45 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 20:53:32 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 21:55:24 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 22:32:32 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 22:32:35 INFO  TC27_ShiftContentOne:35 - Log: ShiftContents_Actions Testing
+2022-09-21 22:32:39 INFO  TC27_ShiftContentOne:42 - Log: ShiftContentsActionRefresh Testing
+2022-09-21 22:32:44 INFO  TC27_ShiftContentOne:49 - Log: ShiftContentsActionRandom Testing
+2022-09-21 22:32:48 INFO  TC27_ShiftContentOne:56 - Log: ShiftContentsActionPixelShift Testing
+2022-09-21 22:35:41 INFO  TC27_ShiftContentOne:24 - Log: User clicked on ShiftContentOne Link
+2022-09-21 22:35:43 INFO  TC27_ShiftContentOne:35 - Log: ShiftContents_Actions Testing
+2022-09-21 22:35:48 INFO  TC27_ShiftContentOne:42 - Log: ShiftContentsActionRefresh Testing
+2022-09-21 22:35:52 INFO  TC27_ShiftContentOne:49 - Log: ShiftContentsActionRandom Testing
+2022-09-21 22:35:56 INFO  TC27_ShiftContentOne:56 - Log: ShiftContentsActionPixelShift Testing
+2022-09-21 22:36:01 INFO  TC27_ShiftContentOne:63 - Log: ShiftContentsAction_Both_Together Testing
+2022-09-21 23:36:18 INFO  TC28_Spell_Check:21 - Log: User clicked on SpellCheckLink
+2022-09-21 23:36:23 INFO  TC28_Spell_Check:34 - Log: SpellCheck_WebSite_Navigation and word spell check Testing
+2022-09-21 23:37:25 INFO  TC28_Spell_Check:21 - Log: User clicked on SpellCheckLink
+2022-09-21 23:39:55 INFO  TC28_Spell_Check:21 - Log: User clicked on SpellCheckLink
+2022-09-21 23:40:13 INFO  TC28_Spell_Check:34 - Log: SpellCheck_WebSite_Navigation and word spell check Testing
+2022-09-22 00:36:34 INFO  TC29_Editor:21 - Log: User clicked on ClickOnEditorLink
+2022-09-22 00:40:58 INFO  TC29_Editor:21 - Log: User clicked on ClickOnEditorLink
+2022-09-22 00:46:58 INFO  TC29_Editor:21 - Log: User clicked on ClickOnEditorLink
+2022-09-22 00:49:10 INFO  TC29_Editor:21 - Log: User clicked on ClickOnEditorLink
+2022-09-22 00:50:33 INFO  TC29_Editor:21 - Log: User clicked on ClickOnEditorLink
+2022-09-22 10:45:24 INFO  TC29_Editor:21 - Log: User clicked on ClickOnEditorLink
+2022-09-22 10:48:09 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 10:54:57 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 10:54:58 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 11:16:30 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 11:16:32 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:30:19 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:31:39 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:34:42 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:34:43 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:35:45 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:35:46 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:37:17 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:37:19 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:39:43 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:39:54 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:40:17 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:40:18 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:42:12 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:42:14 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:45:00 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:45:01 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:47:18 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:47:19 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 17:49:26 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 17:49:27 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 18:01:56 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 18:01:57 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 18:01:58 INFO  TC29_Editor:37 - Log: EditorActions Testing
+2022-09-22 18:02:58 INFO  TC29_Editor:61 - Log: EditorActions_Get_Text Testing
+2022-09-22 18:25:37 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 18:25:40 INFO  TC29_Editor:37 - Log: BoldText Testing
+2022-09-22 18:27:04 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 18:27:06 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 18:27:08 INFO  TC29_Editor:37 - Log: BoldText Testing
+2022-09-22 18:27:08 INFO  TC29_Editor:53 - Log: EditorActions Testing
+2022-09-22 18:30:40 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 18:30:42 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 18:30:44 INFO  TC29_Editor:38 - Log: BoldText Testing
+2022-09-22 18:32:47 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 18:32:48 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 18:32:51 INFO  TC29_Editor:38 - Log: BoldText Testing
+2022-09-22 18:46:06 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 18:46:08 INFO  TC29_Editor:29 - Log: ChangeIFrame Testing
+2022-09-22 18:46:10 INFO  TC29_Editor:37 - Log: BoldText Testing
+2022-09-22 18:46:12 INFO  TC29_Editor:44 - Log: ItalicText Testing
+2022-09-22 18:50:22 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 18:50:23 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 18:50:26 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 18:50:27 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 18:57:16 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 18:57:18 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 18:57:20 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 18:57:22 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 18:57:24 INFO  TC29_Editor:52 - Log: EditorActions Testing
+2022-09-22 19:04:44 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 19:04:46 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 19:04:48 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 19:04:49 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 19:04:51 INFO  TC29_Editor:52 - Log: EditorActions Testing
+2022-09-22 19:20:19 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 19:20:21 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 19:20:23 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 19:20:25 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 19:20:27 INFO  TC29_Editor:52 - Log: EditorActions Testing
+2022-09-22 19:22:39 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 19:22:41 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 19:22:43 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 19:22:45 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 19:22:47 INFO  TC29_Editor:52 - Log: EditorActions Testing
+2022-09-22 19:23:00 INFO  TC29_Editor:60 - Log: EditorActions_Change_Heading_Type Testing
+2022-09-22 19:23:02 INFO  TC29_Editor:68 - Log: EditorActions_Change_Color_Formats Testing
+2022-09-22 19:23:02 INFO  TC29_Editor:76 - Log: EditorActions_Get_Text Testing
+2022-09-22 19:24:11 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 19:24:13 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 19:24:15 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 19:24:17 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 19:24:19 INFO  TC29_Editor:52 - Log: EditorActions Testing
+2022-09-22 19:24:22 INFO  TC29_Editor:60 - Log: EditorActions_Change_Heading_Type Testing
+2022-09-22 19:24:23 INFO  TC29_Editor:68 - Log: EditorActions_Change_Color_Formats Testing
+2022-09-22 19:24:24 INFO  TC29_Editor:76 - Log: EditorActions_Get_Text Testing
+2022-09-22 19:33:50 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 19:33:51 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 19:33:54 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 19:33:56 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 19:33:58 INFO  TC29_Editor:52 - Log: EditorActions Testing
+2022-09-22 19:34:00 INFO  TC29_Editor:60 - Log: EditorActions_Change_Heading_Type Testing
+2022-09-22 19:34:02 INFO  TC29_Editor:68 - Log: EditorActions_Change_Color_Formats Testing
+2022-09-22 19:34:02 INFO  TC29_Editor:76 - Log: EditorActions_Get_Text Testing
+2022-09-22 19:34:04 INFO  TC29_Editor:84 - Log: EditorActions_Change_Font_Family Testing
+2022-09-22 19:34:06 INFO  TC29_Editor:92 - Log: EditorActions_Change_Font_Size Testing
+2022-09-22 19:34:08 INFO  TC29_Editor:100 - Log: EditorActions_Change_Background_Color Testing
+2022-09-22 19:34:49 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 19:34:49 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 19:34:51 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 19:34:52 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 19:34:53 INFO  TC29_Editor:52 - Log: EditorActions Testing
+2022-09-22 19:34:54 INFO  TC29_Editor:60 - Log: EditorActions_Change_Heading_Type Testing
+2022-09-22 19:34:55 INFO  TC29_Editor:68 - Log: EditorActions_Change_Color_Formats Testing
+2022-09-22 19:34:55 INFO  TC29_Editor:76 - Log: EditorActions_Get_Text Testing
+2022-09-22 19:34:56 INFO  TC29_Editor:84 - Log: EditorActions_Change_Font_Family Testing
+2022-09-22 19:34:57 INFO  TC29_Editor:92 - Log: EditorActions_Change_Font_Size Testing
+2022-09-22 19:34:58 INFO  TC29_Editor:100 - Log: EditorActions_Change_Background_Color Testing
+2022-09-22 20:19:41 INFO  TC30_JS_Errors:21 - Log: User clicked on JSError Link
+2022-09-22 21:39:46 INFO  TC30_JS_Errors:21 - Log: User clicked on JSError Link
+2022-09-22 21:39:47 INFO  TC30_JS_Errors:34 - Log: SpellCheck_WebSite_Navigation and word spell check Testing
+2022-09-22 21:40:35 INFO  TC30_JS_Errors:21 - Log: User clicked on JSError Link
+2022-09-22 21:40:35 INFO  TC30_JS_Errors:34 - Log: JS_Errors_List_Outputs Testing
+2022-09-22 21:42:14 INFO  TC30_JS_Errors:21 - Log: User clicked on JSError Link
+2022-09-22 21:45:00 INFO  TC30_JS_Errors:21 - Log: User clicked on JSError Link
+2022-09-22 21:45:00 INFO  TC30_JS_Errors:34 - Log: JS_Errors_List_Outputs Testing
+2022-09-22 21:48:14 INFO  TC30_JS_Errors:21 - Log: User clicked on JSError Link
+2022-09-22 21:48:14 INFO  TC30_JS_Errors:34 - Log: JS_Errors_List_Outputs Testing
+2022-09-22 21:50:16 INFO  TC30_JS_Errors:21 - Log: User clicked on JSError Link
+2022-09-22 21:50:16 INFO  TC30_JS_Errors:34 - Log: JS_Errors_List_Outputs Testing
+2022-09-22 21:50:58 INFO  TC30_JS_Errors:21 - Log: User clicked on JSError Link
+2022-09-22 21:50:58 INFO  TC30_JS_Errors:34 - Log: JS_Errors_List_Outputs Testing
+2022-09-22 22:06:57 INFO  TC29_Editor:20 - Log: User clicked on ClickOnEditorLink
+2022-09-22 22:06:58 INFO  TC29_Editor:28 - Log: ChangeIFrame Testing
+2022-09-22 22:06:58 INFO  TC29_Editor:36 - Log: BoldText Testing
+2022-09-22 22:06:58 INFO  TC29_Editor:43 - Log: ItalicText Testing
+2022-09-22 22:06:59 INFO  TC29_Editor:52 - Log: EditorActions Testing
+2022-09-22 22:06:59 INFO  TC29_Editor:60 - Log: EditorActions_Change_Heading_Type Testing
+2022-09-22 22:07:00 INFO  TC29_Editor:68 - Log: EditorActions_Change_Color_Formats Testing
+2022-09-22 22:07:00 INFO  TC29_Editor:76 - Log: EditorActions_Get_Text Testing
+2022-09-22 22:07:00 INFO  TC29_Editor:84 - Log: EditorActions_Change_Font_Family Testing
+2022-09-22 22:07:01 INFO  TC29_Editor:92 - Log: EditorActions_Change_Font_Size Testing
+2022-09-22 22:07:01 INFO  TC29_Editor:100 - Log: EditorActions_Change_Background_Color Testing
+2022-09-23 09:10:37 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:13:16 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:28:28 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:37:31 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:37:32 INFO  TC22_NestedFrames:36 - Log: Nested_Frames_Page Testing
+2022-09-23 09:37:33 INFO  TC22_NestedFrames:47 - Log: Nested_Frames_Page Testing
+2022-09-23 09:38:39 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:39:32 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:39:33 INFO  TC22_NestedFrames:36 - Log: Nested_Frames_Page Testing
+2022-09-23 09:39:34 INFO  TC22_NestedFrames:47 - Log: Nested_Frames_Page Testing
+2022-09-23 09:53:05 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:53:05 INFO  TC22_NestedFrames:36 - Log: Nested_Frames_Page Testing
+2022-09-23 09:53:06 INFO  TC22_NestedFrames:69 - Log: NestedFramesActions_Bottom Testing
+2022-09-23 09:55:50 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:55:51 INFO  TC22_NestedFrames:36 - Log: Nested_Frames_Page Testing
+2022-09-23 09:55:51 INFO  TC22_NestedFrames:47 - Log: Nested_Frames_Page Testing
+2022-09-23 09:59:15 INFO  TC22_NestedFrames:23 - Log: User clicked on Nested_Frames_Page Link
+2022-09-23 09:59:16 INFO  TC22_NestedFrames:36 - Log: Nested_Frames_Page Testing
+2022-09-23 09:59:16 INFO  TC22_NestedFrames:47 - Log: Nested_Frames_Page Testing
+2022-09-23 09:59:16 INFO  TC22_NestedFrames:58 - Log: SwitchFrame_Child_Bottom Testing
+2022-09-23 09:59:17 INFO  TC22_NestedFrames:69 - Log: NestedFramesActions_Bottom Testing
+2022-09-23 10:27:35 INFO  TC31_Exit_Content:21 - Log: User clicked on ExitContentLink
+2022-09-23 10:27:46 INFO  TC31_Exit_Content:34 - Log: ExitContent_Actions Testing
+2022-09-23 10:29:10 INFO  TC31_Exit_Content:21 - Log: User clicked on ExitContentLink
+2022-09-23 10:30:05 INFO  TC31_Exit_Content:21 - Log: User clicked on ExitContentLink
+2022-09-23 10:31:09 INFO  TC31_Exit_Content:23 - Log: User clicked on ExitContentLink
+2022-09-23 10:31:13 INFO  TC31_Exit_Content:36 - Log: ExitContent_Actions Testing
+2022-09-23 10:59:20 INFO  TC32_Dynamic_Content:23 - Log: User clicked on Dynamic_Content Link
+2022-09-23 11:04:00 INFO  TC32_Dynamic_Content:23 - Log: User clicked on Dynamic_Content Link
+2022-09-23 11:11:26 INFO  TC32_Dynamic_Content:23 - Log: User clicked on Dynamic_Content Link
+2022-09-23 11:22:17 INFO  TC33_Digest_Auth:22 - Log: User clicked on Digest_Auth_Page Link
+2022-09-23 11:24:10 INFO  TC33_Digest_Auth:22 - Log: User clicked on Digest_Auth_Page Link
+2022-09-23 11:25:09 INFO  TC33_Digest_Auth:22 - Log: User clicked on Digest_Auth_Page Link
+2022-09-23 11:25:10 INFO  TC33_Digest_Auth:33 - Log: User Authenticated

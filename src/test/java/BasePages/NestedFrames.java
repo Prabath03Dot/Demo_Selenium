@@ -14,12 +14,34 @@ import static BaseClasses.StaticData.BASE_URL;
 
 public class NestedFrames extends TestBase {
 
-    public NestedFrames NestedFramesActions() throws InterruptedException {
+    public NestedFrames SwitchFrame_Child_Top() throws InterruptedException {
+        driver.switchTo().frame("frame-top");
+        return this;
+    }
+
+    public NestedFrames SwitchFrame_Left() throws InterruptedException {
+        SwitchFrame_Child_Top();
         driver.switchTo().frame("frame-left");
-        WebElement leftElement = driver.findElement(By.cssSelector("body"));
+        return this;
+    }
+
+    public NestedFrames NestedFramesActions_Left() throws InterruptedException {
+        WebElement leftElement = driver.findElement(By.tagName("body"));
         String leftText = leftElement.getText();
         System.out.println("Text in left frame :" + leftText);
-        Thread.sleep(1000);
+        return this;
+    }
+
+    public NestedFrames SwitchFrame_Child_Bottom() throws InterruptedException {
+        driver.switchTo().defaultContent();
+        driver.switchTo().frame("frame-bottom");
+        return this;
+    }
+
+    public NestedFrames NestedFramesActions_Bottom() throws InterruptedException {
+        WebElement leftElement = driver.findElement(By.tagName("body"));
+        String leftText = leftElement.getText();
+        System.out.println("Text in Bottom frame :" + leftText);
         driver.quit();
         return this;
     }

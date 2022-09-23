@@ -278,6 +278,87 @@ public class HomePage extends TestBase {
         return this;
     }
 
+   //-------------Slow Contents----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Slow Resources']")
+    private WebElement SlowContentsLink;
+
+    public HomePage ClickOnSlowContentsLink(){
+        SlowContentsLink.click();
+        return this;
+    }
+
+   //-------------Shift Contents----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Shifting Content']")
+    private WebElement ShiftContentLink;
+
+    public HomePage ClickOnShiftContentsLink(){
+        ShiftContentLink.click();
+        return this;
+    }
+
+   //-------------Spell Check----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Typos']")
+    private WebElement SpellCheckLink;
+
+    public HomePage ClickOnSpellCheckLink(){
+        SpellCheckLink.click();
+        return this;
+    }
+
+    //-------------Editor----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='WYSIWYG Editor']")
+    private WebElement EditorLink;
+
+    public HomePage ClickOnEditorLink(){
+        EditorLink.click();
+        return this;
+    }
+
+    //-------------JS Errors----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='JavaScript onload event error']")
+    private WebElement JSErrorsLink;
+
+    public HomePage ClickOnJSErrorsLink(){
+        JSErrorsLink.click();
+        return this;
+    }
+
+    //-------------Exit Content----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Exit Intent']")
+    private WebElement ExitContentLink;
+
+    public HomePage ClickOnExitContentLink(){
+        ExitContentLink.click();
+        return this;
+    }
+
+    //-------------Dynamic Contents----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Dynamic Content']")
+    private WebElement Dynamic_ContentsLink;
+
+    public HomePage ClickOnDynamic_ContentsLink(){
+        Dynamic_ContentsLink.click();
+        return this;
+    }
+
+    //-------------Digest Auth----------------
+    @CacheLookup
+    @FindBy(xpath = "//a[normalize-space()='Digest Authentication']")
+    private WebElement DigestAuthLink;
+
+    public HomePage ClickOnDigestAuthLink(){
+        driver.get("http://admin:admin@the-internet.herokuapp.com/digest_auth/");
+
+        return this;
+    }
+
 
 
 

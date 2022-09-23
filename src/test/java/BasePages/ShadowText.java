@@ -4,9 +4,11 @@ import BaseClasses.TestBase;
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
+
 
 import static BaseClasses.StaticData.BASE_URL;
 
@@ -22,10 +24,14 @@ public class ShadowText extends TestBase {
 
 
     public ShadowText ShadowTxtConfirmation1(){
-        WebElement shadowHost = driver.findElement(By.cssSelector("#shadow_root"));
         JavascriptExecutor jsDriver = (JavascriptExecutor) driver;
+        WebElement shadowHost = driver.findElement(By.tagName("my-paragraph"));
+//        WebElement shadowHost = driver.findElement(By.tagName("#shadow-root"));
+//        Object shadowRootObj = jsDriver.executeScript("return arguments[0].shadowRoot", shadowHost);
+//        SearchContext shadowRoot = (SearchContext) shadowRootObj;
+//        WebElement shadowContent = shadowRoot.findElement(By.xpath("//span[@slot='my-text']"));
 
-        WebElement shadowRoot = (WebElement) jsDriver.executeScript("return arguments[0].shadowRoot", shadowHost);
+        SearchContext shadowRoot = (SearchContext) jsDriver.executeScript("return arguments[0].shadowRoot", shadowHost);;
         WebElement shadowContent = shadowRoot.findElement(By.xpath("//span[@slot='my-text']"));
 
         String actualTitle = shadowContent.getText();
