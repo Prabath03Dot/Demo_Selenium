@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="DemoProject1" >
+    <test name="TC01_Validate_that_the_user_able_to_register_to_the_system_successfully">
+        <classes>
+            <class name="TestCases.TC01_AB_Testing">
+                <methods>
+<!--                    <include name="verify_that_user_able_to_navigate_to_the_registration_form" />-->
+<!--                    <include name="verify_that_user_able_to_select_package" />-->
+<!--                    <include name="verify_that_user_able_to_enter_company_details" />-->
+<!--                    <include name="verify_that_user_able_to_enter_super_admin_details" />-->
+<!--                    <include name="verify_that_user_able_to_successfully_submit_with_the_agreed_online_subscription" />-->
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+
+    <test name="TC02_Add_Remove">
+        <classes>
+            <class name="TestCases.TC02_Add_Remove"></class>
+        </classes>
+    </test>
+
+    <test name="TC03_User_Auth">
+        <classes>
+            <class name="TestCases.TC03_User_Auth"></class>
+        </classes>
+    </test>
+
+    <test name="TC04_Brokern_Images">
+        <classes>
+            <class name="TestCases.TC04_Brokern_Images"></class>
+        </classes>
+    </test>
+
+    <test name="TC05_DropDown">
+        <classes>
+            <class name="TestCases.TC05_DropDown"></class>
+        </classes>
+    </test>
+
+    <test name="TC06_CheckBoxes">
+        <classes>
+            <class name="TestCases.TC06_CheckBoxes"></class>
+        </classes>
+    </test>
+
+    <test name="TC07_Inputs">
+        <classes>
+            <class name="TestCases.TC07_Inputs"></class>
+        </classes>
+    </test>
+
+    <test name="TC08_DragDrop">
+        <classes>
+            <class name="TestCases.TC08_DragDrop"></class>
+        </classes>
+    </test>
+
+    <test name="TC09_Mouse_hover">
+        <classes>
+            <class name="TestCases.TC09_Mouse_hover"></class>
+        </classes>
+    </test>
+
+    <test name="TC10_H_Slider">
+        <classes>
+            <class name="TestCases.TC10_H_Slider"></class>
+        </classes>
+    </test>
+
+    <test name="TC11_Dynamic_Controls">
+        <classes>
+            <class name="TestCases.TC11_Dynamic_Controls"></class>
+        </classes>
+    </test>
+
+    <test name="TC12_I_Scroll">
+        <classes>
+            <class name="TestCases.TC12_I_Scroll"></class>
+        </classes>
+    </test>
+
+    <test name="TC13_Context_Menu">
+        <classes>
+            <class name="TestCases.TC13_Context_Menu"></class>
+        </classes>
+    </test>
+
+    <test name="TC14_Modal_Dialog">
+        <classes>
+            <class name="TestCases.TC14_Modal_Dialog"></class>
+        </classes>
+    </test>
+
+    <test name="TC15_File_Upload">
+        <classes>
+            <class name="TestCases.TC15_File_Upload"></class>
+        </classes>
+    </test>
+
+    <test name="TC16_Floating_Menu">
+        <classes>
+            <class name="TestCases.TC16_Floating_Menu"></class>
+        </classes>
+    </test>
+
+    <test name="TC17_JQ_Menu">
+        <classes>
+            <class name="TestCases.TC17_JQ_Menu"></class>
+        </classes>
+    </test>
+
+    <test name="TC18_JQAlerts">
+        <classes>
+            <class name="TestCases.TC18_JQAlerts"></class>
+        </classes>
+    </test>
+
+    <test name="TC19_KeyPress">
+        <classes>
+            <class name="TestCases.TC19_KeyPress"></class>
+        </classes>
+    </test>
+
+    <test name="TC20_NotificationMsg">
+        <classes>
+            <class name="TestCases.TC20_NotificationMsg"></class>
+        </classes>
+    </test>
+
+    <test name="TC21_NewWindow">
+        <classes>
+            <class name="TestCases.TC21_NewWindow"></class>
+        </classes>
+    </test>
+
+    <test name="TC22_NestedFrames">
+        <classes>
+            <class name="TestCases.TC22_NestedFrames"></class>
+        </classes>
+    </test>
+
+    <test name="TC23R_RedirectLinks">
+        <classes>
+            <class name="TestCases.TC23R_RedirectLinks"></class>
+        </classes>
+    </test>
+
+    <test name="TC24_FileDownload">
+        <classes>
+            <class name="TestCases.TC24_FileDownload"></class>
+        </classes>
+    </test>
+
+    <test name="TC25_ShandowText">
+        <classes>
+            <class name="TestCases.TC25_ShandowText"></class>
+        </classes>
+    </test>
+
+    <test name="TC26_SlowResource">
+        <classes>
+            <class name="TestCases.TC26_SlowResource"></class>
+        </classes>
+    </test>
+
+    <test name="TC27_ShiftContentOne">
+        <classes>
+            <class name="TestCases.TC27_ShiftContentOne"></class>
+        </classes>
+    </test>
+
+    <test name="TC28_Spell_Check">
+        <classes>
+            <class name="TestCases.TC28_Spell_Check"></class>
+        </classes>
+    </test>
+
+    <test name="TC29_Editor">
+        <classes>
+            <class name="TestCases.TC29_Editor"></class>
+        </classes>
+    </test>
+
+    <test name="TC30_JS_Errors">
+        <classes>
+            <class name="TestCases.TC30_JS_Errors"></class>
+        </classes>
+    </test>
+
+    <test name="TC31_Exit_Content">
+        <classes>
+            <class name="TestCases.TC31_Exit_Content"></class>
+        </classes>
+    </test>
+
+    <test name="TC32_Dynamic_Content">
+        <classes>
+            <class name="TestCases.TC32_Dynamic_Content"></class>
+        </classes>
+    </test>
+
+    <test name="TC33_Digest_Auth">
+        <classes>
+            <class name="TestCases.TC33_Digest_Auth"></class>
+        </classes>
+    </test>
+
+
+</suite>

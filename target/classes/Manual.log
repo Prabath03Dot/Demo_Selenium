@@ -541,3 +541,10 @@
 2022-09-23 11:11:26 INFO  TC32_Dynamic_Content:23 - Log: User clicked on Dynamic_Content Link
 2022-09-23 11:22:17 INFO  TC33_Digest_Auth:22 - Log: User clicked on Digest_Auth_Page Link
 2022-09-23 11:24:10 INFO  TC33_Digest_Auth:22 - Log: User clicked on Digest_Auth_Page Link
+2022-09-23 11:25:09 INFO  TC33_Digest_Auth:22 - Log: User clicked on Digest_Auth_Page Link
+2022-09-23 11:25:10 INFO  TC33_Digest_Auth:33 - Log: User Authenticated
+2022-09-26 19:03:55 INFO  TC01_AB_Testing:22 - Log: User clicked on A/B Link
+2022-09-26 19:03:56 INFO  TC01_AB_Testing:35 - Log: Title Testing
+2022-09-26 19:28:38 INFO  TC01_AB_Testing:22 - Log: User clicked on A/B Link
+2022-09-26 19:47:55 INFO  TC01_AB_Testing:22 - Log: User clicked on A/B Link
+2022-09-26 19:47:56 INFO  TC01_AB_Testing:35 - Log: Title Testing

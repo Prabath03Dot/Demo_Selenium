@@ -30,7 +30,6 @@ public class TC10_H_Slider extends TestBase {
         slider.HSlider_Actions();
 
         logger.info("Log: H_Slider Actions");
-        Reporting.capture_ScreenShot(getClass().getSimpleName().substring(0,5) + "H_Slider_Actions");
 
     }
 
